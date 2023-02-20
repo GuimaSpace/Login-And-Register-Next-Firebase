@@ -6,7 +6,7 @@
 ```sh
 npm install --global yarn
 yarn add i
-npm dev
+yarn dev
 ```
 
 ## Config .ENV file
